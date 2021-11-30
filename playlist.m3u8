@@ -6,6 +6,8 @@
 #EXTINF:9.080000,
 https://raw.githubusercontent.com/iuhni/m3u8testfile/main/output000.ts
 #EXTINF:4.000000,
+https://raw.githubusercontent.com/iuhni/m3u8testfile/main/404.ts
+#EXTINF:4.000000,
 https://raw.githubusercontent.com/iuhni/m3u8testfile/main/output001.ts
 #EXTINF:2.000000,
 https://raw.githubusercontent.com/iuhni/m3u8testfile/main/output002.ts
